@@ -11,5 +11,6 @@ Was created:
 4.	Contacts, About us, Payment and delivery.
 
 An administrative area has also been created that includes creating, reading, updating and deleting (CRUD) for directory management, and is protected so that only registered administrators can make changes.
+
 This web application uses unit testing, because it is an important part of the development process.
 
