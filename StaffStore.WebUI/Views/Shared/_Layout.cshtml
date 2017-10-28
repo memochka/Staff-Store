@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/ErrorStyles.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?&key=AIzaSyDA6N6tGUD5k6riEeXQsKtyp70PxYq1rLc&callback=initMap&language=en"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <title>@ViewBag.Title - Staff Store</title>
+    <style>
+        .navbar-right {
+            float: right !important;
+            margin-right: 15px;
+            margin-left: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Staff Store", "List", "Product", null, new { @class = "navbar-brand" })
+            </div>
+            @Html.Action("Summary", "Cart")
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "List", "Product")</li>
+                    <li>@Html.ActionLink("Contacts", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("About us", "About", "Home")</li>
+                    <li>@Html.ActionLink("Payment and delivery", "Payment", "Home")</li>
+                </ul>
+             </div>
+        </div>
+    </div>
+            <div class="visible-xs">
+                @Html.Action("Menu", "Nav", new { horizontalLayout = true })
+            </div>
+            <div class="row panel">
+                <div id="categories" class="col-xs-3 hidden-xs">
+                    @Html.Action("Menu", "Nav")
+                </div>
+                <div class="col-xs-12 col-sm-8">
+                    @RenderBody()
+                    <br />
+                    <hr />
+                    <footer>
+                        <p>&copy; @DateTime.Now.Year - Demchenko Aleksandr</p>
+                    </footer>
+                </div>
+            </div>
+
+            @Scripts.Render("~/bundles/jquery")
+            @Scripts.Render("~/bundles/bootstrap")
+            @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,93 @@
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\StaffStore.Domain.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\StaffStore.Domain.pdb
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Примеры Кода\StaffStore\StaffStore.Domain\obj\Debug\StaffStore.Domain.csprojResolveAssemblyReference.cache
+C:\Примеры Кода\StaffStore\StaffStore.Domain\obj\Debug\StaffStore.Domain.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\obj\Debug\StaffStore.Domain.pdb
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\StaffStore.Domain.dll.config
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.xml
+C:\Примеры Кода\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\StaffStore.Domain.dll.config
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\StaffStore.Domain.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\StaffStore.Domain.pdb
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\obj\Debug\StaffStore.Domain.csprojResolveAssemblyReference.cache
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\obj\Debug\StaffStore.Domain.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.Domain\obj\Debug\StaffStore.Domain.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\StaffStore.Domain.dll.config
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\StaffStore.Domain.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\StaffStore.Domain.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Helpers.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Mvc.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Razor.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Helpers.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Mvc.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.Razor.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\obj\Debug\StaffStore.Domain.csprojResolveAssemblyReference.cache
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\obj\Debug\StaffStore.Domain.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.Domain\obj\Debug\StaffStore.Domain.pdb
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\StaffStore.Domain.dll.config
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\StaffStore.Domain.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\StaffStore.Domain.pdb
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\EntityFramework.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.Helpers.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.Mvc.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.Razor.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.WebPages.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\EntityFramework.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.Helpers.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.Mvc.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.Razor.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.WebPages.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\obj\Debug\StaffStore.Domain.csprojResolveAssemblyReference.cache
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\obj\Debug\StaffStore.Domain.csproj.CoreCompileInputs.cache
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\obj\Debug\StaffStore.Domain.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.Domain\obj\Debug\StaffStore.Domain.pdb

@@ -1,0 +1,228 @@
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\StaffStore.WebUI.dll.config
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\StaffStore.WebUI.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\StaffStore.WebUI.pdb
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Moq.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Ninject.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\StaffStore.Domain.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Helpers.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Mvc.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Razor.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\StaffStore.Domain.pdb
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Moq.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Ninject.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Razor.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Helpers.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\System.Web.Mvc.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.pdb
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\EntityFramework.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\StaffStore.Domain.dll.config
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\EntityFramework.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\csc.exe
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\vbc.exe
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\WebActivator.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Ninject.pdb
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\Castle.Core.dll
+C:\Примеры Кода\StaffStore\StaffStore.WebUI\bin\WebActivatorEx.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\csc.exe
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\vbc.exe
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\StaffStore.WebUI.dll.config
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\StaffStore.WebUI.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\StaffStore.WebUI.pdb
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Castle.Core.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\EntityFramework.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Moq.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Ninject.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\StaffStore.Domain.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Helpers.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Mvc.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Razor.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\WebActivator.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\StaffStore.Domain.pdb
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\StaffStore.Domain.dll.config
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\EntityFramework.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Moq.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Ninject.pdb
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Ninject.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Mvc.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Razor.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\bin\System.Web.Helpers.xml
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.dll
+C:\Примеры Кода\StaffStore старая версия\StaffStore\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\csc.exe
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\vbc.exe
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\VBCSCompiler.exe
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\StaffStore.WebUI.dll.config
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\StaffStore.WebUI.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\StaffStore.WebUI.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Castle.Core.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\EntityFramework.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\EntityFramework.SqlServer.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Moq.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Ninject.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Common.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Mvc.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\StaffStore.Domain.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Helpers.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Mvc.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Razor.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Razor.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\WebActivator.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\StaffStore.Domain.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\StaffStore.Domain.dll.config
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\EntityFramework.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\EntityFramework.SqlServer.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Moq.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Ninject.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Ninject.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Common.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Common.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Mvc.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Ninject.Web.Mvc.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Mvc.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Razor.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Webpages.Razor.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Helpers.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.csprojResolveAssemblyReference.cache
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Antlr3.Runtime.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Newtonsoft.Json.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Optimization.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\WebGrease.dll
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Antlr3.Runtime.pdb
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\Newtonsoft.Json.xml
+F:\Документы\Программирование\C#\Проэкты\StaffStore\StaffStore.WebUI\bin\System.Web.Optimization.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\csc.exe
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\vbc.exe
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\VBCSCompiler.exe
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\StaffStore.WebUI.dll.config
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\StaffStore.WebUI.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\StaffStore.WebUI.pdb
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Antlr3.Runtime.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Castle.Core.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\EntityFramework.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\EntityFramework.SqlServer.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Moq.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Newtonsoft.Json.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Ninject.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Ninject.Web.Common.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Ninject.Web.Mvc.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\StaffStore.Domain.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Helpers.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Mvc.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Optimization.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Razor.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Webpages.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Webpages.Razor.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\WebActivator.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\WebGrease.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\StaffStore.Domain.pdb
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\StaffStore.Domain.dll.config
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Antlr3.Runtime.pdb
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\EntityFramework.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\EntityFramework.SqlServer.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Moq.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Newtonsoft.Json.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Ninject.pdb
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Ninject.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Ninject.Web.Common.pdb
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Ninject.Web.Common.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Ninject.Web.Mvc.pdb
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\Ninject.Web.Mvc.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Mvc.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Optimization.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Razor.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Webpages.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Webpages.Razor.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\bin\System.Web.Helpers.xml
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.csprojResolveAssemblyReference.cache
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.csproj.CoreCompileInputs.cache
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.dll
+f:\Документы\Программирование\C#\Проэкты\Staff Store\StaffStore.WebUI\obj\Debug\StaffStore.WebUI.pdb
